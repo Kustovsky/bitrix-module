@@ -3,7 +3,7 @@
 [![Coverage](https://img.shields.io/codecov/c/gh/retailcrm/bitrix-module/master.svg?logo=codecov)](https://codecov.io/gh/retailcrm/bitrix-module)
 [![PHP version](https://img.shields.io/badge/PHP->=7.4-blue.svg?logo=php)](https://php.net/)
 
-Bitrix module
+Bitrix module 
 =============
 
 Bitrix module for interaction with [RetailCRM](https://www.retailcrm.ru)
